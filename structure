@@ -1,0 +1,29 @@
+Outline Tesi Marek (120-155pgg)
+
+
+“BioDynamo – Prospettive di sinergia e traslazione tra ricerca di base e clinica in neurologia”
+
+Abstract
+Italiano (1 pag)
+Inglese (1pag)
+
+Introduzione (15-20pgg)
+•	La mancanza di “teoria” in neuroscienze/neurologia
+•	La necessità di strumenti di test formali per congetture e ipotesi, in ricerca, e in clinica (personalized medicine)
+•	Il ruolo delle nuove tecnologie
+
+Materiali e metodi (25-30pgg)
+•	State of the art simulatori (neuro)
+•	Studio architettura di biodynamo, e effort di produzione
+•	Descrizione dell’implementazione (feature presenti, pianificate, …)
+•	Benchmark performance (con qualche grafico)
+
+Risultati (50-70pgg) – considera quante pagine saranno solo grafici/immagini con didascalie!
+•	Bio-veridicità generale
+•	Test sensibilità parametrica (commentando sul vantaggio offerto dalle prestazioni)
+•	1 esempio di simulazione di invecchiamento o danno (proof of concept)
+
+Discussione (30-35pgg)
+•	Il futuro “IT” della medicina
+•	Inquadramento nel contesto degli sforzi dello human brain project, e del virtual physiological human
+•	Qualche parola sul futuro della collaborazione medico-scientifica ed il piano di supportare la scalabilità “umana” con piattaforme adeguate
